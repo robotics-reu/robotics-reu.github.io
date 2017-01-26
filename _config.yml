@@ -1,3 +1,11 @@
-theme: jekyll-theme-cayman
+#General Jekyll Config
+highlighter: rogue
+name: REU in Applied Computational Robotics
+description: REU Site information
+url: "http://robotics-reu.github.io/"
+lsi: false
 
+#Build Settings
+theme: jekyll-theme-cayman
 title: [REU in Applied Computational Robotics]
+description: [University of South Carolina]
