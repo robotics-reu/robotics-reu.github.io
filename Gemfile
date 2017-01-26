@@ -1,1 +1,1 @@
-gem 'minima'
+gem 'cayman'
